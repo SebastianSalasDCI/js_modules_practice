@@ -14,5 +14,3 @@ function scrollWindow() {
         }
     });
 }
-
-export { scrollWindow };
