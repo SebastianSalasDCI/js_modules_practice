@@ -7,5 +7,3 @@ function clickImages() {
         }
     })
  }
- 
- export {clickImages};
