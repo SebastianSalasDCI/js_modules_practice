@@ -14,4 +14,3 @@ function hoverHeader () {
         }
     })
 }
-export {hoverHeader};
